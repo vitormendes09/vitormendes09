@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vitormendes09
+- 👀 Atualmente cursando  sistemas de informação
+- 🌱 Criando projetos pessoais
+- 💞️ A procura de emprego na área de tecnologia
+- 📫 (22) 998041266
