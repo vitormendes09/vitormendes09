@@ -35,6 +35,12 @@ I'm a Full Stack developer currently studying for a Bachelor's degree in Informa
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
 
+### 🏗️ Containerization & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+</p>
+
 ### 🗄️ Databases & Cloud Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
