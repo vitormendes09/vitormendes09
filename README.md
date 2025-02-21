@@ -1,16 +1,4 @@
-# Hi, I'm Vitor 👋
 
-I'm a Full Stack developer currently studying for a Bachelor's degree in Information Systems at Instituto Federal Fluminense, Campus Campos Centro. I’m passionate about software development, constantly learning and exploring new technologies to stay up to date with the most widely used tools in the industry. My goal is to become a web developer, and I’m always eager to improve my skills in both frontend and backend development to contribute to building innovative and scalable systems.
-
-## 🌱 About Me
-- Currently studying **Information Systems**.
-- Experience as a **Full Stack Developer** during a 4-month internship at a small company.
-- Passionate about learning new technologies and improving my technical knowledge.
-- Dedicated, hardworking, and effective in collaborative environments.
-
-## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/vitor-silva-mendes-73244a1ba/)
-- [Gmail](mailto:mendes.v@gsuite.iff.edu.br)
 
 ## 🛠️ My Favorite Tools
 
@@ -45,7 +33,19 @@ I'm a Full Stack developer currently studying for a Bachelor's degree in Informa
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=wh# Hi, I'm Vitor 👋
+
+I'm a Full Stack developer currently studying for a Bachelor's degree in Information Systems at Instituto Federal Fluminense, Campus Campos Centro. I’m passionate about software development, constantly learning and exploring new technologies to stay up to date with the most widely used tools in the industry. My goal is to become a web developer, and I’m always eager to improve my skills in both frontend and backend development to contribute to building innovative and scalable systems.
+
+## 🌱 About Me
+- Currently studying **Information Systems**.
+- Experience as a **Full Stack Developer** during a 4-month internship at a small company.
+- Passionate about learning new technologies and improving my technical knowledge.
+- Dedicated, hardworking, and effective in collaborative environments.
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/vitor-silva-mendes-73244a1ba/)
+- [Gmail](mailto:mendes.v@gsuite.iff.edu.br)ite" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white" />
 </p>
@@ -58,6 +58,7 @@ I'm a Full Stack developer currently studying for a Bachelor's degree in Informa
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Desktop-24292F?style=flat&logo=githubdesktop&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
